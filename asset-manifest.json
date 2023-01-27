@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countingapp/static/css/main.c6ad756b.css",
+    "main.js": "/countingapp/static/js/main.24f41a15.js",
+    "static/js/787.88e4d8a2.chunk.js": "/countingapp/static/js/787.88e4d8a2.chunk.js",
+    "index.html": "/countingapp/index.html",
+    "main.c6ad756b.css.map": "/countingapp/static/css/main.c6ad756b.css.map",
+    "main.24f41a15.js.map": "/countingapp/static/js/main.24f41a15.js.map",
+    "787.88e4d8a2.chunk.js.map": "/countingapp/static/js/787.88e4d8a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ad756b.css",
+    "static/js/main.24f41a15.js"
+  ]
+}

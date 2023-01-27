@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,html{height:100vh;margin:0}.countingMain,body,html{align-items:center;display:flex;justify-content:center}.countingMain{border:2px solid #111;padding:1em;text-align:center;width:500px}.countDisplay{font-size:100px;margin:0;padding:1em}.countingButton{border:1px solid #111;border-radius:10px;color:#111;height:28px;margin-inline:.5em;padding:3px 7px}.increment{background-color:#3aa91b}.decrement{background-color:#e11313}.countingButton:hover{border:1px solid #ddd;color:#ddd}
+/*# sourceMappingURL=main.c6ad756b.css.map*/
