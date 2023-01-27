@@ -22,21 +22,20 @@ const CountingApp = () => {
 	return (
 		<main className="countingMain">
 			<section>
-				<h1>{count}</h1>
-
+				<h1 className="countDisplay">{count}</h1>
 				<button
-					className="increment"
-					onClick={() => {
-						increment();
-					}}>
-					Increment
-				</button>
-				<button
-					className="decrement"
+					className="countingButton decrement"
 					onClick={() => {
 						decrement();
 					}}>
 					Decrement
+				</button>
+				<button
+					className="countingButton increment"
+					onClick={() => {
+						increment();
+					}}>
+					Increment
 				</button>
 			</section>
 		</main>
